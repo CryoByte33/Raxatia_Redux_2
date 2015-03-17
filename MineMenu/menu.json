@@ -1,0 +1,128 @@
+{
+  "main": {
+    "0": {
+      "title": "Galaxy Map",
+      "icon": {
+        "name": "OpenBlocks:projector",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "[GC] Galaxy Map",
+          "toggle": false
+        }
+      }
+    },
+    "1": {
+      "title": "Access Equipped Backpack",
+      "icon": {
+        "name": "Forestry:apiaristBag",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "keys.adventureBackpack.openBackpackInventory",
+          "toggle": false
+        }
+      }
+    },
+    "2": {
+      "title": "Backpack Ability",
+      "icon": {
+        "name": "Forestry:lepidopteristBag",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "keys.adventureBackpack.switchHoseTank",
+          "toggle": false
+        }
+      }
+    },
+    "3": {
+      "title": "Ping",
+      "icon": {
+        "name": "minecraft:ender_pearl",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.ping",
+          "toggle": false
+        }
+      }
+    },
+    "4": {
+      "title": "Add Waypoint",
+      "icon": {
+        "name": "minecraft:beacon",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.journeymap.create_waypoint",
+          "toggle": false
+        }
+      }
+    },
+    "5": {
+      "title": "Map",
+      "icon": {
+        "name": "minecraft:map",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.journeymap.map_toggle",
+          "toggle": false
+        }
+      }
+    },
+    "6": {
+      "title": "Check Server Status",
+      "icon": {
+        "name": "AWWayofTime:daggerOfSacrifice",
+        "damage": 0
+      },
+      "action": {
+        "command": "/cofh tps"
+      }
+    },
+    "7": {
+      "title": "Equipment Inventory",
+      "icon": {
+        "name": "minecraft:diamond_chestplate",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "TG.keybind.openInv",
+          "toggle": false
+        }
+      }
+    },
+    "8": {
+      "title": "Announce AFK",
+      "icon": {
+        "name": "minecraft:iron_bars",
+        "damage": 0
+      },
+      "action": {
+        "command": "/afk"
+      }
+    },
+    "9": {
+      "title": "Thaumcraft Node Tracker",
+      "icon": {
+        "name": "Thaumcraft:blockAiry",
+        "damage": 0
+      },
+      "action": {
+        "key": {
+          "key": "key.aspectMenu",
+          "toggle": false
+        }
+      }
+    }
+  }
+}
